@@ -96,7 +96,7 @@ python -m kan_gpt.prompt --prompt "Bangalore is often described as the " --model
 
 ## Results
 
-We train and compare KAN-GPT with an equivalent MLP-GPT model on the Tiny Shakespeare dataset. We observe that the KAN-GPT performs slightly better than the MLP-GPT. We are looking into further experiments to dive deeper. The results are shown below:
+We train and compare KAN-GPT with an equivalent MLP-GPT model on the Tiny Shakespeare dataset. We observe that the KAN-GPT performs slightly better than the MLP-GPT. I am looking into further experiments to dive deeper. The results are shown below:
 
 
 | Metrics |   |   |
