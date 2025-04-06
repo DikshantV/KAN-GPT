@@ -11,12 +11,12 @@ pip install kan_gpt
 If you find our work useful cite me!
 
 ```
-@misc{DikshantV2024KANGPT,
+@misc{DikshantV2025KANGPT,
   author       = {Dikshant Vashistha},
   title        = {KAN-GPT: The PyTorch implementation of Generative Pre-trained Transformers (GPTs) using Kolmogorov-Arnold Networks (KANs) for language modeling},
-  year         = {2024},
-  month        = {May},
-  note         = {Release 1.0.0, 9th May 2024},
+  year         = {2025},
+  month        = {January},
+  note         = {Release 1.0.0, 9th January 2025},
   
 }
 ```
@@ -60,7 +60,7 @@ print(result)
 
 ```bash
 # Download Repo
-git clone https://github.com/AdityaNG/kan-gpt
+git clone https://github.com/DikshantV/KAN-GPT
 cd kan-gpt
 git pull
 
